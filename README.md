@@ -1,5 +1,5 @@
 # Task at hand
-- [ ] Fork this repo (install Git)
+- [ ] Fork this repo
 - [ ] Create a new project from https://start.spring.io/ 
   - [ ]  Add JDBC API and H2 Database dependencies
 - [ ] Open the project in your IDE
